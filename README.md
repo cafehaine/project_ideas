@@ -8,3 +8,4 @@ know!
 infrastructure
 2. [Universal theme generator](/universal_theme_generator.md) − A way to unify
 Linux's desktop UI
+3. [Push to talk foot pedal](/ptt_pedal.md) − Push to talk, but hands free
