@@ -23,3 +23,6 @@ master, …).
 
 Only requirement, the daemon, probably in a scripting language that is without
 much dependencies.
+
+It's kind of like HashiCorp's Terraform in the idea, but self-hosted instead of
+cloud based.
