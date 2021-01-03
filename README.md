@@ -9,3 +9,5 @@ infrastructure
 2. [Universal theme generator](/universal_theme_generator.md) − A way to unify
 Linux's desktop UI
 3. [Push to talk foot pedal](/ptt_pedal.md) − Push to talk, but hands free
+4. [Power Over Ethernet Smart-House](/poe_smarthouse.md) − An opensource home
+automation system without wireless.
