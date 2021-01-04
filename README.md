@@ -11,3 +11,5 @@ Linux's desktop UI
 3. [Push to talk foot pedal](/ptt_pedal.md) − Push to talk, but hands free
 4. [Power Over Ethernet Smart-House](/poe_smarthouse.md) − An opensource home
 automation system without wireless.
+5. [Desktop Environment Showcase](/de_showcase.md) − A way to showcase most
+Linux desktop environments to help choose one just based on looks.
