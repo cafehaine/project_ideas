@@ -26,3 +26,5 @@ much dependencies.
 
 It's kind of like HashiCorp's Terraform in the idea, but self-hosted instead of
 cloud based.
+
+Frontend using Beeware for minimum effort, most compatible code?
