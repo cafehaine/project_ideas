@@ -13,4 +13,5 @@ Linux's desktop UI
 automation system without wireless.
 5. [Desktop Environment Showcase](/de_showcase.md) − A way to showcase most
 Linux desktop environments to help choose one just based on looks.
+**I did it!** [github.com/cafehaine/de_showcase/](https://github.com/cafehaine/de_showcase/)
 6. [Distributed search engine](/search_engine.md) − A distributed search engine.
