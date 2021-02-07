@@ -15,3 +15,5 @@ automation system without wireless.
 Linux desktop environments to help choose one just based on looks.
 **I did it!** [github.com/cafehaine/de_showcase/](https://github.com/cafehaine/de_showcase/)
 6. [Distributed search engine](/search_engine.md) − A distributed search engine.
+7. [Package tracker](/package_tracker.md) − A package tracker module in python,
+to track packages from most platforms.
