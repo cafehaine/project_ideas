@@ -17,3 +17,5 @@ Linux desktop environments to help choose one just based on looks.
 6. [Distributed search engine](/search_engine.md) − A distributed search engine.
 7. [Package tracker](/package_tracker.md) − A package tracker module in python,
 to track packages from most platforms.
+8. [Fancy dashboard](/fancy_dashboard.md) − A dashboard to visualize misc info
+about your system
