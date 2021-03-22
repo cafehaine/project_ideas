@@ -19,3 +19,5 @@ Linux desktop environments to help choose one just based on looks.
 to track packages from most platforms.
 8. [Fancy dashboard](/fancy_dashboard.md) − A dashboard to visualize misc info
 about your system
+9. [Remote Game Console](/remote_game_console.md) − A way to play your game
+consoles from anywhere in the world
